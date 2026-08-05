@@ -37,3 +37,15 @@ cloud-computing-course/
 ├── reflections/
 
 └── README.md
+
+## 📖 Key Concepts Covered
+
+- Cloud Computing Basics
+
+- Service Models (IaaS, PaaS, SaaS)
+
+- Deployment Models (Public, Private, Hybrid, Community)
+
+- Version Control with Git & GitHub
+
+- Cloud Infrastructure Management
